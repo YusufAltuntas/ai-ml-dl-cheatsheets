@@ -4,7 +4,7 @@ Bu repo, yapay zekâ, makine öğrenimi ve derin öğrenme alanlarında teorik v
 
 ## İçerikteki El Kitapları
 
-### 1. [**Yapay Zekâ El Kitabı (Artificial Intelligence)**](Cheatsheets\super-cheatsheet-artificial-intelligence.pdf)
+### 1. [**Yapay Zekâ El Kitabı (Artificial Intelligence)**]([Cheatsheets\super-cheatsheet-artificial-intelligence.pdf](https://github.com/YusufAltuntas/ai-ml-dl-cheatsheets/blob/master/Cheatsheets/super-cheatsheet-artificial-intelligence.pdf))
 
 
 - **Refleks-temelli Modeller:** Doğrusal öngörücüler, kayıp minimizasyonu ve stokastik gradyan inişi gibi temel kavramlar.
