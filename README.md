@@ -1,5 +1,7 @@
 # Yapay Zekâ, Makine Öğrenimi ve Derin Öğrenme El Kitapları
 
+[ai, ml, dl](https://vegastar.com.vn/wp-media/2023/05/Deep-Learning-vs-Machine-Learning-01.jpg)
+
 Bu repo, yapay zekâ, makine öğrenimi ve derin öğrenme alanlarında teorik ve pratik bilgileri kapsayan üç kapsamlı el kitabını içermektedir. Her bir el kitabı, ilgili konularda temel kavramları, yöntemleri ve pratik uygulama ipuçlarını kolay anlaşılır bir şekilde özetlemektedir.
 
 ## İçerikteki El Kitapları
